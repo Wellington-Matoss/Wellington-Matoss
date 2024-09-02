@@ -2,7 +2,7 @@
 
 ### Olá, eu sou Wellington de Matos 👋
 
-✨ **Desenvolvedor Full-Stack** e graduando em Ciências da Computação.
+✨ **Desenvolvedor Full-Stack** e graduando em **Ciências da Computação**.
 
 🏢 **Atuação Profissional**
 
