@@ -15,7 +15,8 @@
 ### 📊 Estatísticas no GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=Wellington-Matoss&show_icons=true&theme=dracula&hide_title=true&hide=stars)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington-Matoss)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wellington-Matoss GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington-Matoss&show_icons=true&theme=dracula&hide_title=true&hide=stars)
 
 ### 🚀 Linguagens Mais Usadas
 
