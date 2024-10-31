@@ -14,7 +14,7 @@
 
 ### 📊 Estatísticas no GitHub
 
-[![Wellington-Matoss GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington-Matoss&theme=dracula&hide=stars&show_icons=true)
+![Wellington-Matoss GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington-Matoss&theme=dracula&hide=stars&show_icons=true)
 
 ### 🚀 Linguagens Mais Usadas
 
