@@ -15,7 +15,7 @@
 ### 📊 Estatísticas no GitHub
 
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wellington-Matoss&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=dracula)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wellington-Matoss&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=FFFc&icon_color=FF00F6&theme=dracula)
 
 ### 🚀 Linguagens Mais Usadas
 
