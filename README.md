@@ -16,7 +16,7 @@
 
 [![Wellington-Matoss GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington-Matoss&theme=dracula&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Wellington-Matoss stats](https://github-readme-stats.vercel.app/api?username=Wellington-Matoss)
+[![Wellington-Matoss stats](https://github-readme-stats.vercel.app/api?username=Wellington-Matoss)]
 
 ### 🚀 Linguagens Mais Usadas
 
