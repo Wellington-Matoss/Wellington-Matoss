@@ -6,7 +6,7 @@
 
 🏢 **Atuação Profissional**
 
-- 🚀 Desenvolvedor Full-Stack na CEREBRA
+- 🚀 Desenvolvedor Full-Stack na CEREBRAA
 
 ## 📱 Conecte-se comigo
 
