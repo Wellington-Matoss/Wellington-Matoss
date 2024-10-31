@@ -18,4 +18,4 @@
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wellington-Matos&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wellington-Matoss&layout=compact&theme=dracula)
