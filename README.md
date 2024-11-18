@@ -12,6 +12,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-de-matos-neves-616b06212/)
 
+### 📊 Estatísticas no GitHub
+
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wellington-Matoss&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=FFFc&icon_color=FF00F6&theme=dracula)
+
+
 ### 🚀 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wellington-Matoss&layout=compact&theme=dracula)
