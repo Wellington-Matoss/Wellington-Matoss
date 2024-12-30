@@ -1,12 +1,24 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-### Olá, eu sou Wellington de Matos 👋
+### Hello, I'm Wellington de Matos 👋
 
-✨ **Desenvolvedor Full-Stack** e graduando em **Ciências da Computação**.
+- **Full-Stack Developer and a Computer Science undergraduate.**
+  
+🏢 **Experience and Education**
 
-🏢 **Atuação Profissional**
+- 💼 **Full-Stack Developer** at **CEREBRA**, where I apply my skills in software and web application development to create innovative solutions.
+- 🎓 **Currently studying Computer Science**, with a focus on new technologies and development practices.
+- 🚀 My first contact with technology was during my technical course at SENAI, working with PLCs. Later, I participated in a competition at SENAI, which deepened my knowledge in this field.
 
-- 🚀 Desenvolvedor Full-Stack na CEREBRA
+🎮 **Interests and Hobbies**
+
+- Passionate about technology and innovation, my hobbies include gaming, reading books, listening to music, and watching anime, activities that continually inspire me to seek more knowledge and creativity.
+
+### Tech Stack
+- **Frontend**: React, HTML5, CSS3, JavaScript, TypeScript, Sass
+- **Backend**: Node.js, Express
+- **Database**: MongoDB, MySQL
+- **Tools**: Git, Docker, Visual Studio Code, Nginx, AWS
 
 ### Connect with me
 
