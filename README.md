@@ -14,12 +14,6 @@
 
 - Passionate about technology and innovation, my hobbies include gaming, reading books, listening to music, and watching anime, activities that continually inspire me to seek more knowledge and creativity.
 
-### Tech Stack
-- **Frontend**: React, HTML5, CSS3, JavaScript, TypeScript, Sass
-- **Backend**: Node.js, Express
-- **Database**: MongoDB, MySQL
-- **Tools**: Git, Docker, Visual Studio Code, Nginx, AWS
-
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/wellington-de-matos-neves-616b06212/)
