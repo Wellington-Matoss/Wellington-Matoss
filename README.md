@@ -44,7 +44,6 @@ Full Stack Developer at **CEREBRA**, building scalable web applications with mod
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/wellington-de-matos-neves-616b06212/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/Wellington-Matoss)
 
 ---
 
